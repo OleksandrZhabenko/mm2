@@ -2,7 +2,7 @@
 -- see http://haskell.org/cabal/users-guide/
 
 name:                mm2
-version:             0.1.0.0
+version:             0.1.1.0
 synopsis:            The library that can be used for optimization of multiple (Ord a) => a -> b transformations
 -- description:
 homepage:            https://oleksandrzhabenko.github.io/mm2

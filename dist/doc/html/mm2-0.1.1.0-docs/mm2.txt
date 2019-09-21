@@ -7,7 +7,7 @@
 --   The library that can be used for optimization of multiple (Ord a)
 --   =&gt; a -&gt; b transformations
 @package mm2
-@version 0.1.0.0
+@version 0.1.1.0
 
 module CaseBi
 
